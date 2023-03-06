@@ -6,3 +6,11 @@ C:\Users\harry\Downloads\CMP1903M Object Oriented Programming A01 2223\CMP1903M 
 C:\Users\harry\Downloads\CMP1903M Object Oriented Programming A01 2223\CMP1903M A01 2223\CMP1903M A01 2223\obj\Debug\CMP1903M A01 2223.csproj.CoreCompileInputs.cache
 C:\Users\harry\Downloads\CMP1903M Object Oriented Programming A01 2223\CMP1903M A01 2223\CMP1903M A01 2223\obj\Debug\CMP1903M A01 2223.exe
 C:\Users\harry\Downloads\CMP1903M Object Oriented Programming A01 2223\CMP1903M A01 2223\CMP1903M A01 2223\obj\Debug\CMP1903M A01 2223.pdb
+C:\Users\harry\Desktop\CMP1903M Object Oriented Programming - Harry\CMP1903M A01 2223\CMP1903M A01 2223\bin\Debug\CMP1903M A01 2223.exe.config
+C:\Users\harry\Desktop\CMP1903M Object Oriented Programming - Harry\CMP1903M A01 2223\CMP1903M A01 2223\bin\Debug\CMP1903M A01 2223.exe
+C:\Users\harry\Desktop\CMP1903M Object Oriented Programming - Harry\CMP1903M A01 2223\CMP1903M A01 2223\bin\Debug\CMP1903M A01 2223.pdb
+C:\Users\harry\Desktop\CMP1903M Object Oriented Programming - Harry\CMP1903M A01 2223\CMP1903M A01 2223\obj\Debug\CMP1903M A01 2223.csproj.AssemblyReference.cache
+C:\Users\harry\Desktop\CMP1903M Object Oriented Programming - Harry\CMP1903M A01 2223\CMP1903M A01 2223\obj\Debug\CMP1903M A01 2223.csproj.SuggestedBindingRedirects.cache
+C:\Users\harry\Desktop\CMP1903M Object Oriented Programming - Harry\CMP1903M A01 2223\CMP1903M A01 2223\obj\Debug\CMP1903M A01 2223.csproj.CoreCompileInputs.cache
+C:\Users\harry\Desktop\CMP1903M Object Oriented Programming - Harry\CMP1903M A01 2223\CMP1903M A01 2223\obj\Debug\CMP1903M A01 2223.exe
+C:\Users\harry\Desktop\CMP1903M Object Oriented Programming - Harry\CMP1903M A01 2223\CMP1903M A01 2223\obj\Debug\CMP1903M A01 2223.pdb

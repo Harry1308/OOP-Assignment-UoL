@@ -36,6 +36,7 @@
             this.rank = rank;
         }
 
+        // repr for class 
         public override string ToString()
         {
             return rank + " of " + suit;
